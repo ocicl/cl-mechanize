@@ -1,0 +1,10 @@
+* cl-mechanize
+
+WWW::Mechanize work-alike for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/joachifm/cl-mechanize.git   |
+| commit  | 4f7d5aa  |
+| systems | cl-mechanize |
+|---------+-------------------------------------------|
+
